@@ -1,0 +1,14 @@
+dagster
+dagster-cloud
+PyGithub
+matplotlib
+pandas
+nbconvert
+nbformat
+ipykernel
+jupytext
+markdown
+
+[dev]
+dagit
+pytest
