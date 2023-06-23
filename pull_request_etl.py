@@ -75,7 +75,7 @@ def report(github_api, md_file):
     )
     return gist.html_url
 
-ACCESS_TOKEN = "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"
+ACCESS_TOKEN = ""
 github_api = Github(ACCESS_TOKEN)
 
 if __name__ == "__main__":
