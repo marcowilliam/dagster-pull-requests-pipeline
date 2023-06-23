@@ -12,8 +12,7 @@ setup(
         "nbconvert",
         "nbformat",
         "ipykernel",
-        "jupytext",
-        "markdown"
+        "jupytext"
     ],
     extras_require={"dev": ["dagit", "pytest"]},
 )
